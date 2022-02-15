@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+
+h1, h3 {
+  color: white;
+}
+
+#title {
+  border: 3px solid white;
+}
+
+div {
+  color: #aaa;
+  font-style: italic;
+}
+
+#cvs {
+  border: 3px solid white;
+}
