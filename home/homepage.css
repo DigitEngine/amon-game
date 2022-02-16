@@ -1,6 +1,7 @@
 body
 {
   background: #222;
+  color: white;
 }
 
 #outl
@@ -8,4 +9,7 @@ body
   border: 3px solid black;
 }
 
-.cen
+.center
+{
+  text-align: center;
+}
