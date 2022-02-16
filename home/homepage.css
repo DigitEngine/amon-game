@@ -1,4 +1,11 @@
 body
 {
-  background: #dcb;
+  background: #222;
 }
+
+#outl
+{
+  border: 3px solid black;
+}
+
+.cen
