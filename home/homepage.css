@@ -4,6 +4,12 @@ body
   color: white;
 }
 
+#unim
+{
+  font-style: italic;
+  color: #aaa;
+}
+
 #outl
 {
   border: 3px solid black;
